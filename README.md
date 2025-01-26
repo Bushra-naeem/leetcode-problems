@@ -1,4 +1,4 @@
-# Coding Problems Solutions💡
+# Solutions to Coding Problems💡
 
 This repository contains solutions to LeetCode problems that I have been solving to polish my coding skills.
 
